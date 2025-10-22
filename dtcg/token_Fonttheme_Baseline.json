@@ -1,0 +1,38 @@
+{
+  "Static": {
+    "Font": {
+      "Brand": {
+        "$type": "string",
+        "$value": "Roboto"
+      },
+      "Plain": {
+        "$type": "string",
+        "$value": "Roboto"
+      }
+    },
+    "Weight": {
+      "Bold": {
+        "$type": "string",
+        "$value": "SemiBold"
+      },
+      "Medium": {
+        "$type": "string",
+        "$value": "Medium"
+      },
+      "Regular": {
+        "$type": "string",
+        "$value": "Regular"
+      }
+    }
+  },
+  "Tracking": {
+    "None": {
+      "$type": "number",
+      "$value": 0
+    },
+    "Small": {
+      "$type": "number",
+      "$value": 0.1
+    }
+  }
+}

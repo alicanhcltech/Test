@@ -1,0 +1,394 @@
+{
+  "Static": {
+    "Body Large": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 24
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 16
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Body Medium": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 20
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 14
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.25
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Body Small": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 16
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 12
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.4
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Display Large": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Brand}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 64
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 57
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": -0.25
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Display Medium": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Brand}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 52
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 45
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Display Small": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Brand}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 44
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 36
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Headline Large": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Brand}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 40
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 32
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Headline Medium": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Brand}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 36
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 28
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Headline Small": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Brand}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 32
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 24
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Label Large": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 20
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 14
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Bold}"
+      }
+    },
+    "Label Medium": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 16
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 12
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Bold}"
+      }
+    },
+    "Label Small": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 16
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 11
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.5
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Bold}"
+      }
+    },
+    "Title Large": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Brand}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 28
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 22
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Regular}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      }
+    },
+    "Title Medium": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 24
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 16
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.15
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Bold}"
+      }
+    },
+    "Title Small": {
+      "Font": {
+        "$type": "string",
+        "$value": "{Static.Font.Plain}"
+      },
+      "Line Height": {
+        "$type": "number",
+        "$value": 20
+      },
+      "Size": {
+        "$type": "number",
+        "$value": 14
+      },
+      "Tracking": {
+        "$type": "number",
+        "$value": 0.1
+      },
+      "Weight": {
+        "$type": "string",
+        "$value": "{Static.Weight.Medium}"
+      },
+      "Weight-emphasized": {
+        "$type": "string",
+        "$value": "{Static.Weight.Bold}"
+      }
+    }
+  }
+}
