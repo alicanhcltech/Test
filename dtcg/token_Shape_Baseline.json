@@ -1,0 +1,44 @@
+{
+  "Corner": {
+    "Extra-extra-large": {
+      "$type": "number",
+      "$value": 48
+    },
+    "Extra-large": {
+      "$type": "number",
+      "$value": 28
+    },
+    "Extra-large-increased": {
+      "$type": "number",
+      "$value": 32
+    },
+    "Extra-small": {
+      "$type": "number",
+      "$value": 4
+    },
+    "Full": {
+      "$type": "number",
+      "$value": 1000
+    },
+    "Large": {
+      "$type": "number",
+      "$value": 16
+    },
+    "Large-increased": {
+      "$type": "number",
+      "$value": 20
+    },
+    "Medium": {
+      "$type": "number",
+      "$value": 12
+    },
+    "None": {
+      "$type": "number",
+      "$value": 0
+    },
+    "Small": {
+      "$type": "number",
+      "$value": 8
+    }
+  }
+}
