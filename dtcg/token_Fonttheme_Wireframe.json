@@ -1,0 +1,38 @@
+{
+  "Static": {
+    "Font": {
+      "Brand": {
+        "$type": "string",
+        "$value": "Flow Circular"
+      },
+      "Plain": {
+        "$type": "string",
+        "$value": "Flow Circular"
+      }
+    },
+    "Weight": {
+      "Bold": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "Medium": {
+        "$type": "string",
+        "$value": "Regular"
+      },
+      "Regular": {
+        "$type": "string",
+        "$value": "Regular"
+      }
+    }
+  },
+  "Tracking": {
+    "None": {
+      "$type": "number",
+      "$value": 0
+    },
+    "Small": {
+      "$type": "number",
+      "$value": 0
+    }
+  }
+}
