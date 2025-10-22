@@ -1,0 +1,894 @@
+{
+  "Add-ons": {
+    "Section background": {
+      "$type": "color",
+      "$value": "#000000"
+    }
+  },
+  "Schemes": {
+    "Background": {
+      "$type": "color",
+      "$value": "#141218"
+    },
+    "Error": {
+      "$type": "color",
+      "$value": "#f2b8b5"
+    },
+    "Error Container": {
+      "$type": "color",
+      "$value": "#8c1d18"
+    },
+    "Inverse On Surface": {
+      "$type": "color",
+      "$value": "#313630"
+    },
+    "Inverse Primary": {
+      "$type": "color",
+      "$value": "#376a3e"
+    },
+    "Inverse Surface": {
+      "$type": "color",
+      "$value": "#e0e4db"
+    },
+    "On Background": {
+      "$type": "color",
+      "$value": "#e6e0e9"
+    },
+    "On Error": {
+      "$type": "color",
+      "$value": "#601410"
+    },
+    "On Error Container": {
+      "$type": "color",
+      "$value": "#f9dedc"
+    },
+    "On Primary": {
+      "$type": "color",
+      "$value": "#003913"
+    },
+    "On Primary Container": {
+      "$type": "color",
+      "$value": "#b7f1b9"
+    },
+    "On Primary Fixed": {
+      "$type": "color",
+      "$value": "#002108"
+    },
+    "On Primary Fixed Variant": {
+      "$type": "color",
+      "$value": "#2d4e30"
+    },
+    "On Secondary": {
+      "$type": "color",
+      "$value": "#243425"
+    },
+    "On Secondary Container": {
+      "$type": "color",
+      "$value": "#d4e8d1"
+    },
+    "On Secondary Fixed": {
+      "$type": "color",
+      "$value": "#0f1f11"
+    },
+    "On Secondary Fixed Variant": {
+      "$type": "color",
+      "$value": "#3a4b3a"
+    },
+    "On Surface": {
+      "$type": "color",
+      "$value": "#e0e4db"
+    },
+    "On Surface Variant": {
+      "$type": "color",
+      "$value": "#c1c9be"
+    },
+    "On Tertiary": {
+      "$type": "color",
+      "$value": "#00363d"
+    },
+    "On Tertiary Container": {
+      "$type": "color",
+      "$value": "#bdeaf3"
+    },
+    "On Tertiary Fixed": {
+      "$type": "color",
+      "$value": "#001f24"
+    },
+    "On Tertiary Fixed Variant": {
+      "$type": "color",
+      "$value": "#2f4b51"
+    },
+    "Outline": {
+      "$type": "color",
+      "$value": "#919282"
+    },
+    "Outline Variant": {
+      "$type": "color",
+      "$value": "#424940"
+    },
+    "Primary": {
+      "$type": "color",
+      "$value": "#9cd49f"
+    },
+    "Primary Container": {
+      "$type": "color",
+      "$value": "#1d5128"
+    },
+    "Primary Fixed": {
+      "$type": "color",
+      "$value": "#b7f1b9"
+    },
+    "Primary Fixed Dim": {
+      "$type": "color",
+      "$value": "#9cd49e"
+    },
+    "Scrim": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "Secondary": {
+      "$type": "color",
+      "$value": "#b8ccb5"
+    },
+    "Secondary Container": {
+      "$type": "color",
+      "$value": "#3a4b3a"
+    },
+    "Secondary Fixed": {
+      "$type": "color",
+      "$value": "#d1e5ce"
+    },
+    "Secondary Fixed Dim": {
+      "$type": "color",
+      "$value": "#b8ccb6"
+    },
+    "Shadow": {
+      "$type": "color",
+      "$value": "#000000"
+    },
+    "Surface": {
+      "$type": "color",
+      "$value": "#101510"
+    },
+    "Surface Bright": {
+      "$type": "color",
+      "$value": "#363a35"
+    },
+    "Surface Container": {
+      "$type": "color",
+      "$value": "#1c211c"
+    },
+    "Surface Container High": {
+      "$type": "color",
+      "$value": "#272b26"
+    },
+    "Surface Container Highest": {
+      "$type": "color",
+      "$value": "#313630"
+    },
+    "Surface Container Low": {
+      "$type": "color",
+      "$value": "#181d18"
+    },
+    "Surface Container Lowest": {
+      "$type": "color",
+      "$value": "#0b0f0b"
+    },
+    "Surface Dim": {
+      "$type": "color",
+      "$value": "#101510"
+    },
+    "Surface Tint": {
+      "$type": "color",
+      "$value": "#9cd49f"
+    },
+    "Surface Variant": {
+      "$type": "color",
+      "$value": "#313630"
+    },
+    "Tertiary": {
+      "$type": "color",
+      "$value": "#a1ced6"
+    },
+    "Tertiary Container": {
+      "$type": "color",
+      "$value": "#1f4d54"
+    },
+    "Tertiary Fixed": {
+      "$type": "color",
+      "$value": "#bae8f0"
+    },
+    "Tertiary Fixed Dim": {
+      "$type": "color",
+      "$value": "#a1ced6"
+    }
+  },
+  "State Layers": {
+    "Background": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#14121814"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#1412181a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#14121829"
+      }
+    },
+    "Error": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#f2b8b514"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#f2b8b51a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#f2b8b529"
+      }
+    },
+    "Error Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#8c1d1814"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#8c1d181a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#8c1d1829"
+      }
+    },
+    "Inverse On Surface": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#31363014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#3136301a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#31363029"
+      }
+    },
+    "Inverse Primary": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#376a3e14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#376a3e1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#376a3e29"
+      }
+    },
+    "Inverse Surface": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#e0e4db14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#e0e4db1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#e0e4db29"
+      }
+    },
+    "On Background": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#e6e0e914"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#e6e0e91a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#e6e0e929"
+      }
+    },
+    "On Error": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#60141014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#6014101a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#60141029"
+      }
+    },
+    "On Error Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#f9dedc14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#f9dedc1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#f9dedc29"
+      }
+    },
+    "On Primary": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#00391314"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#0039131a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#00391329"
+      }
+    },
+    "On Primary Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#b7f1b914"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#b7f1b91a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#b7f1b929"
+      }
+    },
+    "On Primary Fixed": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#00210814"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#0021081a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#00210829"
+      }
+    },
+    "On Primary Fixed Variant": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#2d4e3014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#2d4e301a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#2d4e3029"
+      }
+    },
+    "On Secondary": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#24342514"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#2434251a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#24342529"
+      }
+    },
+    "On Secondary Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#d4e8d114"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#d4e8d11a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#d4e8d129"
+      }
+    },
+    "On Secondary Fixed": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#0f1f1114"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#0f1f111a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#0f1f1129"
+      }
+    },
+    "On Secondary Fixed Variant": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#3a4b3a14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#3a4b3a1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#3a4b3a29"
+      }
+    },
+    "On Surface": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#e0e4db14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#e0e4db1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#e0e4db29"
+      }
+    },
+    "On Surface Variant": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#c1c9be14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#c1c9be1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#c1c9be29"
+      }
+    },
+    "On Tertiary": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#00363d14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#00363d1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#00363d29"
+      }
+    },
+    "On Tertiary Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#bdeaf314"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#bdeaf31a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#bdeaf329"
+      }
+    },
+    "On Tertiary Fixed": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#001f2414"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#001f241a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#001f2429"
+      }
+    },
+    "On Tertiary Fixed Variant": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#2f4b5114"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#2f4b511a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#2f4b5129"
+      }
+    },
+    "Outline": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#91928214"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#9192821a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#91928229"
+      }
+    },
+    "Outline Variant": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#42494014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#4249401a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#42494029"
+      }
+    },
+    "Primary": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#9cd49f14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#9cd49f1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#9cd49f29"
+      }
+    },
+    "Primary Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#1d512814"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#1d51281a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#1d512829"
+      }
+    },
+    "Primary Fixed": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#b7f1b914"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#b7f1b91a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#b7f1b929"
+      }
+    },
+    "Primary Fixed Dim": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#9cd49e14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#9cd49e1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#9cd49e29"
+      }
+    },
+    "Scrim": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#00000014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#0000001a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#00000029"
+      }
+    },
+    "Secondary": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#b8ccb514"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#b8ccb51a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#b8ccb529"
+      }
+    },
+    "Secondary Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#3a4b3a14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#3a4b3a1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#3a4b3a29"
+      }
+    },
+    "Secondary Fixed": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#d1e5ce14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#d1e5ce1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#d1e5ce29"
+      }
+    },
+    "Secondary Fixed Dim": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#b8ccb614"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#b8ccb61a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#b8ccb629"
+      }
+    },
+    "Shadow": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#00000014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#0000001a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#00000029"
+      }
+    },
+    "Surface": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#10151014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#1015101a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#10151029"
+      }
+    },
+    "Surface Bright": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#363a3514"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#363a351a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#363a3529"
+      }
+    },
+    "Surface Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#1c211c14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#1c211c1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#1c211c29"
+      }
+    },
+    "Surface Container High": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#272b2614"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#272b261a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#272b2629"
+      }
+    },
+    "Surface Container Highest": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#31363014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#3136301a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#31363029"
+      }
+    },
+    "Surface Container Low": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#181d1814"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#181d181a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#181d1829"
+      }
+    },
+    "Surface Container Lowest": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#0b0f0b14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#0b0f0b1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#0b0f0b29"
+      }
+    },
+    "Surface Dim": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#10151014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#1015101a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#10151029"
+      }
+    },
+    "Surface Tint": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#9cd49f14"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#9cd49f1a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#9cd49f29"
+      }
+    },
+    "Surface Variant": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#31363014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#3136301a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#31363029"
+      }
+    },
+    "Tertiary": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#a1ced614"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#a1ced61a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#a1ced629"
+      }
+    },
+    "Tertiary Container": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#1f4d5414"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#1f4d541a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#1f4d5429"
+      }
+    },
+    "Tertiary Fixed": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#bae8f014"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#bae8f01a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#bae8f029"
+      }
+    },
+    "Tertiary Fixed Dim": {
+      "Opacity-08": {
+        "$type": "color",
+        "$value": "#a1ced614"
+      },
+      "Opacity-10": {
+        "$type": "color",
+        "$value": "#a1ced61a"
+      },
+      "Opacity-16": {
+        "$type": "color",
+        "$value": "#a1ced629"
+      }
+    }
+  }
+}
